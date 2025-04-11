@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <vector>git add .
+#include <vector>
 
 #include <cstdlib> 
 #include <ctime> 
